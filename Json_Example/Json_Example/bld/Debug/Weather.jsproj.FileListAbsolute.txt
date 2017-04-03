@@ -1,0 +1,16 @@
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bin\Debug\ReverseMap\resources.pri
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bin\Debug\AppxManifest.xml
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bin\Debug\Weather.build.appxrecipe
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\ResourceHandlingTask.state
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\priconfig.xml
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\priconfig.xml.intermediate
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\layout.resfiles
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\layout.resfiles.intermediate
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\resources.resfiles
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\resources.resfiles.intermediate
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\pri.resfiles
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\pri.resfiles.intermediate
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\qualifiers.txt
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\ProjectArchitectures.txt

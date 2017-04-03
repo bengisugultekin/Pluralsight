@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BENG</Machine>
+    <WindowsUser>Bengisu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e2d1eaa6-ba53-4afd-b984-185ec60f82a7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Bengisu</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>6AB0B8C15D392AA85718068962319CFA2266D58D9D9925BF9225BFF20E58E951</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e2d1eaa6-ba53-4afd-b984-185ec60f82a7_1.0.0.0_neutral__50hvp5hedhgw6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e2d1eaa6-ba53-4afd-b984-185ec60f82a7_50hvp5hedhgw6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e2d1eaa6-ba53-4afd-b984-185ec60f82a7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bengisu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-03T14:03:07.060</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\data.json">
+      <PackagePath>data.json</PackagePath>
+      <Modified>2017-04-03T13:56:44.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-04-03T13:17:56.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T22:20:35.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-04-03T14:02:48.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-04-03T13:01:40.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bengisu\Desktop\Pluralsight\Weather\Weather\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-03T14:03:06.796</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
